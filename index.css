@@ -1,0 +1,14 @@
+img{
+  border-radius: 50%;
+  width:10%;
+  height:10%; 
+}
+h1,h2{
+  
+  font-family: 'Big Shoulders Inline Text', cursive;
+  color: #B46F60;
+}
+h3,p {
+  font-family: 'Big Shoulders Inline Text', cursive;
+  font-weight:10000;
+}
